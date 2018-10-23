@@ -1,6 +1,6 @@
 ## Daily-react-092-twitter-clone-app
 
-> Challenge: create Twitter Clone App.
+> Challenge: create a Twitter Clone App.
 
 Work in progress: https://github.com/jamal7x7/daily-react-092-twitter-clone-app
 
