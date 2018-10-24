@@ -3,7 +3,7 @@ import '../styles/App.sass'
 
 const Header = () => (
   <header className='App-header'>
-    <h1 className='App-title'> Wordsy Game </h1>
+    <h1 className='App-title'> Twitter Clone App </h1>
   </header>
 )
 
@@ -25,7 +25,7 @@ const Side = () => (
 
 
 
-class  WordsyApp extends Component {
+class  TwitterCloneApp extends Component {
   
   state = {
     
@@ -56,7 +56,7 @@ class  WordsyApp extends Component {
 const App = (props) => (
   <div className='App'>
     <Header />
-    < WordsyApp />
+    < TwitterCloneApp />
 
   </div>
 )
